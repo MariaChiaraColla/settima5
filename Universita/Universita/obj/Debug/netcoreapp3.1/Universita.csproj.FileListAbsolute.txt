@@ -1,0 +1,13 @@
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\bin\Debug\netcoreapp3.1\Universita.exe
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\bin\Debug\netcoreapp3.1\Universita.deps.json
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\bin\Debug\netcoreapp3.1\Universita.runtimeconfig.json
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\bin\Debug\netcoreapp3.1\Universita.runtimeconfig.dev.json
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\bin\Debug\netcoreapp3.1\Universita.dll
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\bin\Debug\netcoreapp3.1\Universita.pdb
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\obj\Debug\netcoreapp3.1\Universita.csprojAssemblyReference.cache
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\obj\Debug\netcoreapp3.1\Universita.AssemblyInfoInputs.cache
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\obj\Debug\netcoreapp3.1\Universita.AssemblyInfo.cs
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\obj\Debug\netcoreapp3.1\Universita.csproj.CoreCompileInputs.cache
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\obj\Debug\netcoreapp3.1\Universita.dll
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\obj\Debug\netcoreapp3.1\Universita.pdb
+C:\Users\maria.chiara.colla\Documents\Visual Studio 2019\Progetti\settimana5\EsameQuintaSettimana\Universita\Universita\obj\Debug\netcoreapp3.1\Universita.genruntimeconfig.cache
